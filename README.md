@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+🌱 Working on it~
 <!--
 **ManSyaz/ManSyaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ManSyaz&theme=vision-friendly-dark&show_icons=true)
